@@ -1,10 +1,14 @@
 ## Homework 5
 
-Hassan Hage Hassan
-Masao Kitamura
+Students:
 
-Dr. Ray Toal
-CMSI 585 Summer 2022
+- Hassan Hage Hassan
+- Masao Kitamura
+
+Professor and Class:
+
+- Dr. Ray Toal
+- CMSI 585 Summer 2022
 
 ## Prerequisites
 
